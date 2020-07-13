@@ -1,4 +1,4 @@
-[![Filip Sokolowski.](https://github.com/Skarbona/filip-sokolowski/blob/master/filip-sokolowski.png)](https://filip-sokolowski.pl)
+[![Filip Sokolowski.](https://github.com/Skarbona/Skarbona/blob/master/filip-sokolowski.png)](https://filip-sokolowski.pl)
 
 Hello. I’m Filip. Please check my main [demo project](https://github.com/Skarbona/eportal2020) (React/Node applications) with [live preview](https://game.filip-sokolowski.pl/)
 
