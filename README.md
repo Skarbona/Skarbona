@@ -1,6 +1,4 @@
-[![Filip Sokolowski.](https://github.com/Skarbona/Skarbona/blob/master/filip-sokolowski.png)](https://filip-sokolowski.pl)
-
-Hello. I’m Filip. Please check my main [demo project](https://github.com/Skarbona/eportal2020) (React/Node applications) with [live preview](https://game.filip-sokolowski.pl/)
+I am a programmer by profession, a freelancer by choice, a husband by love, a father by heart, and a traveler by passion.
 
 
 Let's stay in touch:
